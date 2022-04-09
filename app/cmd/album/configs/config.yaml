@@ -1,0 +1,8 @@
+port:  :8080
+name: recordings
+url: http://127.0.0.1:8080
+db:
+  name: recordings
+  addr: localhost:3306
+  username: root
+  password: 123456
